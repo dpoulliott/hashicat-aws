@@ -7,6 +7,7 @@
 
 variable "prefix" {
   description = "This prefix will be included in the name of most resources."
+  default = "d266e"
 }
 
 variable "region" {
